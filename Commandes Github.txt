@@ -1,0 +1,10 @@
+Ouvrir le terminal dans le dossier contenant le site web
+
+
+git init
+git add file.html
+git commit -m "un autre commit"
+git remote add origin https://github.com/Nayl-git/Portfolio.git
+
+git pull
+git push -u origin main
